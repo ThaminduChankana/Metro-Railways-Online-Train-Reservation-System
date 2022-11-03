@@ -1,0 +1,91 @@
+
+Sept 22, 2021 16:36:17.137 NEW SESSION
+Sept 22, 2021 16:36:17.137 [10712:4780:0922/163617.136:ERROR:device_event_log_impl.cc(214)] [16:36:17.135] USB: usb_service_win.cc:389 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Sept 22, 2021 16:50:37.865 [5720:14308:0922/165037.865:ERROR:device_event_log_impl.cc(214)] [16:50:37.864] USB: usb_service_win.cc:389 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Sept 22, 2021 22:44:13.79 NEW SESSION
+Sept 22, 2021 22:44:13.79 [17436:18184:0922/224413.078:ERROR:device_event_log_impl.cc(214)] [22:44:13.078] USB: usb_service_win.cc:389 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Sept 22, 2021 22:47:47.652 [15936:18036:0922/224747.652:ERROR:device_event_log_impl.cc(214)] [22:47:47.651] USB: usb_service_win.cc:389 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Sept 22, 2021 22:49:34.772 NEW SESSION
+Sept 22, 2021 22:49:34.772 [17912:12128:0922/224934.771:ERROR:device_event_log_impl.cc(214)] [22:49:34.771] USB: usb_service_win.cc:389 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Sept 22, 2021 22:54:55.678 NEW SESSION
+Sept 22, 2021 22:54:55.678 [18332:3864:0922/225455.677:ERROR:device_event_log_impl.cc(214)] [22:54:55.677] USB: usb_service_win.cc:389 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Sept 22, 2021 22:56:10.473 NEW SESSION
+Sept 22, 2021 22:56:10.473 [5296:5240:0922/225610.471:ERROR:device_event_log_impl.cc(214)] [22:56:10.471] USB: usb_service_win.cc:389 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Sept 22, 2021 22:57:33.165 [5296:5240:0922/225733.165:ERROR:device_event_log_impl.cc(214)] [22:57:33.164] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+
+Sept 23, 2021 18:42:26.613 NEW SESSION
+Sept 23, 2021 18:42:26.613 [12408:4344:0923/184226.612:ERROR:device_event_log_impl.cc(214)] [18:42:26.611] USB: usb_service_win.cc:389 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Sept 23, 2021 19:16:40.49 NEW SESSION
+Sept 23, 2021 19:16:40.49 [5392:9716:0923/191640.048:ERROR:device_event_log_impl.cc(214)] [19:16:40.049] USB: usb_service_win.cc:389 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Sept 23, 2021 20:00:27.894 NEW SESSION
+Sept 23, 2021 20:00:27.894 [16388:7368:0923/200027.893:ERROR:device_event_log_impl.cc(214)] [20:00:27.893] USB: usb_service_win.cc:389 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Sept 23, 2021 20:00:44.166 [2968:3356:0923/200044.165:ERROR:device_event_log_impl.cc(214)] [20:00:44.165] USB: usb_service_win.cc:389 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Sept 23, 2021 20:00:59.500 [10204:15300:0923/200059.500:ERROR:device_event_log_impl.cc(214)] [20:00:59.500] USB: usb_service_win.cc:389 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Sept 23, 2021 20:01:29.936 [15180:17108:0923/200129.936:ERROR:device_event_log_impl.cc(214)] [20:01:29.935] USB: usb_service_win.cc:389 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Sept 23, 2021 20:02:01.278 [1788:8984:0923/200201.277:ERROR:device_event_log_impl.cc(214)] [20:02:01.277] USB: usb_service_win.cc:389 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Sept 23, 2021 20:02:17.578 [13172:15824:0923/200217.578:ERROR:device_event_log_impl.cc(214)] [20:02:17.577] USB: usb_service_win.cc:389 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Sept 23, 2021 20:04:39.252 [11636:18168:0923/200439.252:ERROR:device_event_log_impl.cc(214)] [20:04:39.251] USB: usb_service_win.cc:389 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Sept 23, 2021 23:01:30.282 NEW SESSION
+Sept 23, 2021 23:01:30.282 [16884:7864:0923/230130.281:ERROR:device_event_log_impl.cc(214)] [23:01:30.280] USB: usb_service_win.cc:389 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Sept 23, 2021 23:08:58.714 NEW SESSION
+Sept 23, 2021 23:08:58.715 [7364:18352:0923/230858.713:ERROR:device_event_log_impl.cc(214)] [23:08:58.713] USB: usb_service_win.cc:389 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Sept 23, 2021 23:14:25.918 NEW SESSION
+Sept 23, 2021 23:14:25.918 [1464:10832:0923/231425.917:ERROR:device_event_log_impl.cc(214)] [23:14:25.917] USB: usb_service_win.cc:389 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Sept 23, 2021 23:39:05.891 NEW SESSION
+Sept 23, 2021 23:39:05.891 [15236:18108:0923/233905.890:ERROR:device_event_log_impl.cc(214)] [23:39:05.890] USB: usb_service_win.cc:389 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Sept 24, 2021 24:14:50.140 NEW SESSION
+Sept 24, 2021 24:14:50.140 [3972:4388:0924/001450.139:ERROR:device_event_log_impl.cc(214)] [00:14:50.139] USB: usb_service_win.cc:389 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Sept 24, 2021 24:34:32.525 NEW SESSION
+Sept 24, 2021 24:34:32.525 [2176:5944:0924/003432.524:ERROR:device_event_log_impl.cc(214)] [00:34:32.525] USB: usb_service_win.cc:389 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Sept 24, 2021 24:35:14.28 NEW SESSION
+Sept 24, 2021 24:35:14.28 [3792:3100:0924/003514.027:ERROR:device_event_log_impl.cc(214)] [00:35:14.027] USB: usb_service_win.cc:389 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Sept 24, 2021 24:44:13.178 NEW SESSION
+Sept 24, 2021 24:44:13.178 [3236:6800:0924/004413.177:ERROR:device_event_log_impl.cc(214)] [00:44:13.176] USB: usb_service_win.cc:389 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Sept 24, 2021 24:47:34.586 NEW SESSION
+Sept 24, 2021 24:47:34.586 [7912:6800:0924/004734.585:ERROR:device_event_log_impl.cc(214)] [00:47:34.585] USB: usb_service_win.cc:389 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Sept 24, 2021 01:24:09.297 NEW SESSION
+Sept 24, 2021 01:24:09.297 [6492:11368:0924/012409.296:ERROR:device_event_log_impl.cc(214)] [01:24:09.296] USB: usb_service_win.cc:389 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Sept 24, 2021 12:03:05.858 NEW SESSION
+Sept 24, 2021 12:03:05.858 [11144:10084:0924/120305.856:ERROR:device_event_log_impl.cc(214)] [12:03:05.856] USB: usb_service_win.cc:389 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Sept 24, 2021 19:14:37.795 NEW SESSION
+Sept 24, 2021 19:14:37.795 [9768:12760:0924/191437.794:ERROR:device_event_log_impl.cc(214)] [19:14:37.795] USB: usb_service_win.cc:389 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Sept 24, 2021 23:45:53.118 NEW SESSION
+Sept 24, 2021 23:45:53.118 [11516:15108:0924/234553.117:ERROR:device_event_log_impl.cc(214)] [23:45:53.118] USB: usb_service_win.cc:389 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Sept 27, 2021 21:07:33.520 NEW SESSION
+Sept 27, 2021 21:07:33.520 [2732:11944:0927/210733.519:ERROR:device_event_log_impl.cc(214)] [21:07:33.520] USB: usb_service_win.cc:389 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Sept 28, 2021 12:33:00.633 NEW SESSION
+Sept 28, 2021 12:33:00.633 [8612:4316:0928/123300.632:ERROR:chrome_browser_main_extra_parts_metrics.cc(228)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+Sept 28, 2021 12:33:00.634 [8612:4316:0928/123300.632:ERROR:chrome_browser_main_extra_parts_metrics.cc(231)] crbug.com/1216328: Checking Bluetooth availability ended.
+Sept 28, 2021 12:33:00.634 [8612:4316:0928/123300.632:ERROR:chrome_browser_main_extra_parts_metrics.cc(234)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+Sept 28, 2021 12:33:00.634 [8612:4316:0928/123300.633:ERROR:chrome_browser_main_extra_parts_metrics.cc(238)] crbug.com/1216328: Checking default browser status ended.
+Sept 28, 2021 12:33:00.635 [8612:10200:0928/123300.634:ERROR:device_event_log_impl.cc(214)] [12:33:00.634] USB: usb_service_win.cc:389 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Sept 28, 2021 12:33:30.731 [8612:8820:0928/123330.731:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -7
+Sept 28, 2021 12:34:22.668 [8612:8820:0928/123422.668:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -7
+
+Oct 02, 2021 01:03:59.126 NEW SESSION
+Oct 02, 2021 01:03:59.126 [5664:17656:1002/010359.122:ERROR:chrome_browser_main_extra_parts_metrics.cc(228)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+Oct 02, 2021 01:03:59.126 [5664:17656:1002/010359.122:ERROR:chrome_browser_main_extra_parts_metrics.cc(231)] crbug.com/1216328: Checking Bluetooth availability ended.
+Oct 02, 2021 01:03:59.127 [5664:17656:1002/010359.122:ERROR:chrome_browser_main_extra_parts_metrics.cc(234)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+Oct 02, 2021 01:03:59.127 [5664:17656:1002/010359.123:ERROR:chrome_browser_main_extra_parts_metrics.cc(238)] crbug.com/1216328: Checking default browser status ended.
+Oct 02, 2021 01:03:59.127 [5664:15660:1002/010359.124:ERROR:device_event_log_impl.cc(214)] [01:03:59.125] USB: usb_service_win.cc:389 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
